@@ -47,10 +47,10 @@ This application is a backend application, part of the administrative system of 
 **Request Body Format:**
 ```json
 {
-  "name": NAME,
-  "capacity": CAPACITY,
-  "range": RANGE,
-  "fuel": FUELTYPE
+  "name": "Vehicle 1",
+  "capacity": 4,
+  "range": 60,
+  "fuel": "gasoline"
 }
 ```
 
